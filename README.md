@@ -12,7 +12,7 @@ Antes de mais nada, faça o download da aplicação <a href="https://github.com/
 
 ## Ambiente 
 
-Este procedimento foi testado usando o Windows 10 e o emulador Android Studio.
+Este procedimento foi testado usando o Windows 10 e o emulador no Android Studio.
 
 ## Mobile
 
