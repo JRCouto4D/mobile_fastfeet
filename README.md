@@ -3,7 +3,7 @@
 </h1>
 
 <span align="center">
-  Trata-se de uma aplicação back-end densevolvida com NodeJS para uma transportadora fictícia, o FastFeet.
+  Trata-se de uma aplicação mobile densevolvida com React Native para uma transportadora fictícia, o FastFeet.
 </span>
 
 # Instruções para executar a aplicação.
